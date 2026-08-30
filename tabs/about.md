@@ -36,9 +36,6 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+Hi, I'm 박준서 (Junseo Park) — currently learning software development.
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+This is where I keep notes on what I'm studying, ongoing projects, coding test practice, and interview prep.

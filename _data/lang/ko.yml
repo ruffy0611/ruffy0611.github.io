@@ -149,8 +149,8 @@ archives:
 
 # for about layout
 about:
-  title: 에 대한
-  button_name: 에 대한
+  title: 소개
+  button_name: 소개
   email_title: 이메일
 
 # for links layout

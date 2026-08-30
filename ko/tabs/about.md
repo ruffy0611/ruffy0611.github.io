@@ -36,9 +36,6 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+안녕하세요, 박준서입니다. 개발을 공부하고 있습니다.
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+공부한 내용, 진행 중인 프로젝트, 코딩 테스트 풀이, 면접 준비 과정을 기록하는 공간입니다.
