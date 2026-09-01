@@ -147,6 +147,21 @@ archives:
   button_name: Archive
   page_header: Archive
 
+# for study layout (posts with category: study)
+study:
+  title: Study
+  button_name: Study
+  page_header: Study
+  no_posts_text: "No posts yet."
+
+# for dev layout (posts with category: dev)
+dev:
+  title: Dev
+  button_name: Dev
+  page_header: Dev
+  no_posts_text: "No posts yet."
+
+
 # for about layout
 about:
   title: About

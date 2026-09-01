@@ -33,7 +33,7 @@ img: ":about.jpg"
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+published: false
 ---
 
 안녕하세요, 박준서입니다. 개발을 공부하고 있습니다.

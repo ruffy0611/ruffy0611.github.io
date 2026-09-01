@@ -147,6 +147,21 @@ archives:
   button_name: 아카이브
   page_header: 아카이브
 
+# for study layout (posts with category: study)
+study:
+  title: 공부
+  button_name: 공부
+  page_header: 공부
+  no_posts_text: "아직 글이 없습니다."
+
+# for dev layout (posts with category: dev)
+dev:
+  title: 개발
+  button_name: 개발
+  page_header: 개발
+  no_posts_text: "아직 글이 없습니다."
+
+
 # for about layout
 about:
   title: 소개

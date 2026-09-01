@@ -11,7 +11,7 @@
   {%- assign first_chr = include.img_name | slice: 0 -%}
   {%- if first_chr == ':' -%}
     {%- assign folder = include.layout -%}
-    {%- if include.layout == "post" or include.layout == "post-list" -%}{%- assign folder = "posts" -%}{%- endif -%}
+    {%- if include.layout == "post" or include.layout == "post-list" or include.layout == "study" or include.layout == "dev" -%}{%- assign folder = "posts" -%}{%- endif -%}
     {%- capture get_img_path_out -%} /assets/img/{{ folder }}{{ include.img_name | replace_first: ':', '/' }} {%- endcapture -%}
   {%- elsif include.img_name != nil and include.img_name != empty -%}
     {%- capture get_img_path_out -%} {{ include.img_name }} {%- endcapture -%}
