@@ -42,7 +42,7 @@ lng_pair: id_links
 page_data:
   main:
     header: "링크"
-    info: "귀하의 링크 페이지 설명."
+    info: "자주 찾아보는 자료를 모아둔 페이지입니다."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
@@ -52,7 +52,7 @@ page_data:
     - title: "웹 디자인"
       type: id_webdesign
       color: "#F4A273"
-    - title: "프로그램 작성"
+    - title: "프로그래밍"
       type: id_programming
       color: "#62b462"
 
